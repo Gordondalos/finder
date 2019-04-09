@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+@import '../node_modules/bootstrap-scss/bootstrap.scss';
+
+.d-flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.f-gt-1 {
+  flex-grow: 1;
+}
+
+.pointer {
+  cursor: pointer;
+}
