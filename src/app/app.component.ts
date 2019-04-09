@@ -22,7 +22,7 @@ export class AppComponent implements OnInit {
   info: Info;
   sum = 3000;
   type = 'increment';
-  reverse = false;
+  reverse = true;
 
   constructor(
     private dataService: DataService

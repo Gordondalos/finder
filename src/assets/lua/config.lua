@@ -1,4 +1,4 @@
-sleep_time = 10000
+sleep_time = 60000
 do_main = true
 fileLogName = "log.txt"
 fileInfoName = "info.json"
