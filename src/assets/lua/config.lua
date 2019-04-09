@@ -11,4 +11,4 @@ oldValueInfo = ''
 oldValueInfoObj = {}
 
 -- укажите тикеры акций
-rows = {"AAPL", "V", "BSX", "BABA", "BIDU", "BAC"}
+rows = {"AAPL", "V", "BSX", "BABA", "BIDU", "BAC", "MMM", "AME", "AA"}
